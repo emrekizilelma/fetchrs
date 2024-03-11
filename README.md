@@ -16,5 +16,5 @@
 ```sh
 git clone https://github.com/emrekizilelma/fetchrs
 cd fetchrs
-cargo run (for run)or cargo build (for binary file)
+cargo run
 ```
